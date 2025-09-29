@@ -29,3 +29,5 @@ O programa irá gerar dois arquivos na mesma pasta:
 
 post.json: Contém os dados do post principal.
 comments.json: Contém uma lista de todos os comentários.
+
+Comando para rodar: python reddit_scraper.py
