@@ -1,16 +1,20 @@
-O programa reddit_scraper.py foi desenvolvido e testado com sucesso. Ele extrai as informações do post e dos comentários do Reddit e os salva em arquivos JSON, conforme solicitado.
+O programa reddit_scraper.py foi desenvolvido e testado com sucesso.
+
+Ele extrai as informações do post e dos comentários do Reddit e os salva em arquivos JSON, conforme solicitado.
 
 Como usar o programa:
 
 Obtenha suas credenciais da API do Reddit:
 
 Vá para https://www.reddit.com/prefs/apps.
+
 Clique em "create app" ou "criar aplicativo" (se ainda não tiver um).
 Selecione "script" como tipo de aplicativo.
 
 Preencha o nome (ex: "MeuRedditCrawler"), descrição e URL de redirecionamento (pode ser http://localhost:8080 para script ).
 
 Anote o client_id (abaixo de "personal use script") e o client_secret.
+
 Atualize o arquivo reddit_scraper.py:
 
 
