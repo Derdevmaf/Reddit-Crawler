@@ -1,0 +1,141 @@
+https://www.reddit.com/r/pythonhelp/comments/1nwqzbe/main_func_in_python/
+https://www.reddit.com/r/pythonhelp/comments/1nwlll4/pscara_python_based_power_systems_automation/
+https://www.reddit.com/r/pythonhelp/comments/1nse3ml/is_it_necessary_to_learn_programming_if_you_want/
+https://www.reddit.com/r/pythonhelp/comments/1nibshi/macospython_how_to_handle_dependencies_in_a/
+https://www.reddit.com/r/pythonhelp/comments/1lftw2w/is_it_ok_to_use_chatgpt_when_learning_python/
+https://www.reddit.com/r/pythonhelp/comments/1iayef5/environment_issues_with_dll_and_mediapipe/
+https://www.reddit.com/r/pythonhelp/comments/1h88vdn/github_importing_problem/
+https://www.reddit.com/r/pythonhelp/comments/1m1a67y/cant_get_vs_code_to_use_my_virtual_environment/
+https://www.reddit.com/r/pythonhelp/comments/1jdsat6/looking_for_advice_to_really_learn_coding/
+https://www.reddit.com/r/pythonhelp/comments/1j6we1d/downloading_pdfs_from_a_website_converting_them/
+https://www.reddit.com/r/pythonhelp/comments/1it8b8f/xlwings_opening_file_with_add_ins_not_loaded/
+https://www.reddit.com/r/pythonhelp/comments/1iqpn8y/first_time_coding_stuck_trying_to_append/
+https://www.reddit.com/r/pythonhelp/comments/1ig3xfv/moviepyeditor_couldnt_be_resolved/
+https://www.reddit.com/r/pythonhelp/comments/1gtp7tz/multiprocessingpool_hangs_on_new_processor/
+https://www.reddit.com/r/pythonhelp/comments/1gryu7n/typeerror_maxfinder_takes_0_positional_arguments/
+https://www.reddit.com/r/pythonhelp/comments/1gnes5d/yo_can_yall_check_this_out_pls/
+https://www.reddit.com/r/pythonhelp/comments/1g0srab/fyi_homebrew_on_macos_is_now_actively_preventing/
+https://www.reddit.com/r/pythonhelp/comments/1nycjcd/getting_songs_from_internet/
+https://www.reddit.com/r/pythonhelp/comments/1ntbfwk/how_do_you_pinpoint_which_page_actually_drives_a/
+https://www.reddit.com/r/pythonhelp/comments/1npkacb/capture_naughty_async_processes/
+https://www.reddit.com/r/pythonhelp/comments/1no9hxk/no_exceptions_are_thrown_but_no_file_is_created/
+https://www.reddit.com/r/pythonhelp/comments/1nlvl3g/trying_to_get_python_to_detect_these_obvious/
+https://www.reddit.com/r/pythonhelp/comments/1nhn0zd/need_to_know_how_to_install_facial_recognition/
+https://www.reddit.com/r/pythonhelp/comments/1nawrng/strange_bug_that_i_cant_figure_out/
+https://www.reddit.com/r/pythonhelp/comments/1mz1138/question_about_spiderfoot/
+https://www.reddit.com/r/pythonhelp/comments/1myx363/pyttsx3_only_reproduces_the_first_line/
+https://www.reddit.com/r/pythonhelp/comments/1mjw47i/should_i_learn_python_from_a_bootcamp_or_pick_a/
+https://www.reddit.com/r/pythonhelp/comments/1lpczn7/scraping_wikipedia_articles_for_urls/
+https://www.reddit.com/r/pythonhelp/comments/1ky9bup/how_do_i_make_games_with_python/
+https://www.reddit.com/r/pythonhelp/comments/1kxww7r/stop_asking_for_password/
+https://www.reddit.com/r/pythonhelp/comments/1kfcfwq/please_improve_my_python_code_which_is_having/
+https://www.reddit.com/r/pythonhelp/comments/1kakep8/why_does_it_not_print_the_text/
+https://www.reddit.com/r/pythonhelp/comments/1k25p1w/python_libraries_recommendation_for_all_types_of/
+https://www.reddit.com/r/pythonhelp/comments/1jvhurb/best_free_appwebsite_to_learn_python_3/
+https://www.reddit.com/r/pythonhelp/comments/1jv6rnc/blackjack_problem/
+https://www.reddit.com/r/pythonhelp/comments/1jmqo0x/how_to_deal_with_text_files_on_an_advanced_level/
+https://www.reddit.com/r/pythonhelp/comments/1jd8asw/i_cant_figure_out_how_to_create_a_function_that/
+https://www.reddit.com/r/pythonhelp/comments/1jd8asw/i_cant_figure_out_how_to_create_a_function_that/
+https://www.reddit.com/r/pythonhelp/comments/1iducgn/need_assistance_with_some_code/
+https://www.reddit.com/r/pythonhelp/comments/1i8uvgq/problem_in_odcstac_when_reading_geospacial/
+https://www.reddit.com/r/pythonhelp/comments/1i5wv6b/im_not_getting_the_right_values/
+https://www.reddit.com/r/pythonhelp/comments/1hjhwmy/sorting_in_python/
+https://www.reddit.com/r/pythonhelp/comments/1hgma0r/recursionerror_raises_when_doing_sysargv0/
+https://www.reddit.com/r/pythonhelp/comments/1h0bmrd/how_do_i_make_dynamic_strings_in_a_for_loop_or/
+https://www.reddit.com/r/pythonhelp/comments/1h01vjk/how_would_i_go_about_optimizing_this_code/
+https://www.reddit.com/r/pythonhelp/comments/1fxrlo3/returning_factors_of_a_function_beginner/
+https://www.reddit.com/r/pythonhelp/comments/1nb1xp4/weird_bug_with_pydantic_vscode_and_breakpoints/
+https://www.reddit.com/r/pythonhelp/comments/1n44eve/python_script_csv_cleanerpy/
+https://www.reddit.com/r/pythonhelp/comments/1n32ua9/how_to_stop_creating_stuff_in_libraryapplication/
+https://www.reddit.com/r/pythonhelp/comments/1m9yytz/bettercam_comerror_interface_or_functionality_not/
+https://www.reddit.com/r/pythonhelp/comments/1lvaag1/need_assistance_with_this_assignment/
+https://www.reddit.com/r/pythonhelp/comments/1legl08/left_alignment_fails/
+https://www.reddit.com/r/pythonhelp/comments/1k6cbbe/for_generative_maps_is_there_a_better_way_to/
+https://www.reddit.com/r/pythonhelp/comments/1jzo6xg/what_is_this_kind_of_problem_and_how_can_i/
+https://www.reddit.com/r/pythonhelp/comments/1jw716q/python_and_firebase/
+https://www.reddit.com/r/pythonhelp/comments/1jvb08m/blackjack_problem/
+https://www.reddit.com/r/pythonhelp/comments/1jvfm9o/why_does_this_always_print_k_when_i_type_h_for/
+https://www.reddit.com/r/pythonhelp/comments/1ja2vvl/assistance_getting_json_into_mysql/
+https://www.reddit.com/r/pythonhelp/comments/1j1qeuh/snake_game_python/
+https://www.reddit.com/r/pythonhelp/comments/1ipjvq5/how_to_get_connection_to_my_microsoft_sql_server/
+https://www.reddit.com/r/pythonhelp/comments/1fxg1t3/looping_for_assignment/
+https://www.reddit.com/r/pythonhelp/comments/1fxeqwv/incrementing_to_last_forth_decimal/
+https://www.reddit.com/r/pythonhelp/comments/1g06gw4/hey_guys_looking_for_some_to_give_me_a_hand/
+https://www.reddit.com/r/pythonhelp/comments/1gh03rp/just_getting_started_with_python_im_not_sure_what/
+
+
+
+
+
+
+
+  if __name__ == "__main__":
+    # Lista de URLs de exemplo
+    urls_to_scrape = [
+        "https://www.reddit.com/r/pythonhelp/comments/1nwqzbe/main_func_in_python/",
+        "https://www.reddit.com/r/pythonhelp/comments/1nwlll4/pscara_python_based_power_systems_automation/",
+        "https://www.reddit.com/r/pythonhelp/comments/1nse3ml/is_it_necessary_to_learn_programming_if_you_want/",
+        "https://www.reddit.com/r/pythonhelp/comments/1nibshi/macospython_how_to_handle_dependencies_in_a/",
+        "https://www.reddit.com/r/pythonhelp/comments/1lftw2w/is_it_ok_to_use_chatgpt_when_learning_python/",
+        "https://www.reddit.com/r/pythonhelp/comments/1iayef5/environment_issues_with_dll_and_mediapipe/",
+        "https://www.reddit.com/r/pythonhelp/comments/1h88vdn/github_importing_problem/",
+        "https://www.reddit.com/r/pythonhelp/comments/1m1a67y/cant_get_vs_code_to_use_my_virtual_environment/",
+        "https://www.reddit.com/r/pythonhelp/comments/1jdsat6/looking_for_advice_to_really_learn_coding/",
+        "https://www.reddit.com/r/pythonhelp/comments/1j6we1d/downloading_pdfs_from_a_website_converting_them/",
+        "https://www.reddit.com/r/pythonhelp/comments/1it8b8f/xlwings_opening_file_with_add_ins_not_loaded/",
+        "https://www.reddit.com/r/pythonhelp/comments/1iqpn8y/first_time_coding_stuck_trying_to_append/",
+        "https://www.reddit.com/r/pythonhelp/comments/1ig3xfv/moviepyeditor_couldnt_be_resolved/",
+        "https://www.reddit.com/r/pythonhelp/comments/1gtp7tz/multiprocessingpool_hangs_on_new_processor/",
+        "https://www.reddit.com/r/pythonhelp/comments/1gryu7n/typeerror_maxfinder_takes_0_positional_arguments/",
+        "https://www.reddit.com/r/pythonhelp/comments/1gnes5d/yo_can_yall_check_this_out_pls/",
+        "https://www.reddit.com/r/pythonhelp/comments/1g0srab/fyi_homebrew_on_macos_is_now_actively_preventing/",
+        "https://www.reddit.com/r/pythonhelp/comments/1nycjcd/getting_songs_from_internet/",
+        "https://www.reddit.com/r/pythonhelp/comments/1ntbfwk/how_do_you_pinpoint_which_page_actually_drives_a/",
+        "https://www.reddit.com/r/pythonhelp/comments/1npkacb/capture_naughty_async_processes/",
+        "https://www.reddit.com/r/pythonhelp/comments/1no9hxk/no_exceptions_are_thrown_but_no_file_is_created/",
+        "https://www.reddit.com/r/pythonhelp/comments/1nlvl3g/trying_to_get_python_to_detect_these_obvious/",
+        "https://www.reddit.com/r/pythonhelp/comments/1nhn0zd/need_to_know_how_to_install_facial_recognition/",
+        "https://www.reddit.com/r/pythonhelp/comments/1nawrng/strange_bug_that_i_cant_figure_out/",
+        "https://www.reddit.com/r/pythonhelp/comments/1mz1138/question_about_spiderfoot/",
+        "https://www.reddit.com/r/pythonhelp/comments/1myx363/pyttsx3_only_reproduces_the_first_line/",
+        "https://www.reddit.com/r/pythonhelp/comments/1mjw47i/should_i_learn_python_from_a_bootcamp_or_pick_a/",
+        "https://www.reddit.com/r/pythonhelp/comments/1lpczn7/scraping_wikipedia_articles_for_urls/",
+        "https://www.reddit.com/r/pythonhelp/comments/1ky9bup/how_do_i_make_games_with_python/",
+        "https://www.reddit.com/r/pythonhelp/comments/1kxww7r/stop_asking_for_password/",
+        "https://www.reddit.com/r/pythonhelp/comments/1kfcfwq/please_improve_my_python_code_which_is_having/",
+        "https://www.reddit.com/r/pythonhelp/comments/1kakep8/why_does_it_not_print_the_text/",
+        "https://www.reddit.com/r/pythonhelp/comments/1k25p1w/python_libraries_recommendation_for_all_types_of/",
+        "https://www.reddit.com/r/pythonhelp/comments/1jvhurb/best_free_appwebsite_to_learn_python_3/",
+        "https://www.reddit.com/r/pythonhelp/comments/1jv6rnc/blackjack_problem/",
+        "https://www.reddit.com/r/pythonhelp/comments/1jmqo0x/how_to_deal_with_text_files_on_an_advanced_level/",
+        "https://www.reddit.com/r/pythonhelp/comments/1jd8asw/i_cant_figure_out_how_to_create_a_function_that/",
+        "https://www.reddit.com/r/pythonhelp/comments/1jd8asw/i_cant_figure_out_how_to_create_a_function_that/",
+        "https://www.reddit.com/r/pythonhelp/comments/1iducgn/need_assistance_with_some_code/",
+        "https://www.reddit.com/r/pythonhelp/comments/1i8uvgq/problem_in_odcstac_when_reading_geospacial/",
+        "https://www.reddit.com/r/pythonhelp/comments/1i5wv6b/im_not_getting_the_right_values/",
+        "https://www.reddit.com/r/pythonhelp/comments/1hjhwmy/sorting_in_python/",
+        "https://www.reddit.com/r/pythonhelp/comments/1hgma0r/recursionerror_raises_when_doing_sysargv0/",
+        "https://www.reddit.com/r/pythonhelp/comments/1h0bmrd/how_do_i_make_dynamic_strings_in_a_for_loop_or/",
+        "https://www.reddit.com/r/pythonhelp/comments/1h01vjk/how_would_i_go_about_optimizing_this_code/",
+        "https://www.reddit.com/r/pythonhelp/comments/1fxrlo3/returning_factors_of_a_function_beginner/",
+        "https://www.reddit.com/r/pythonhelp/comments/1nb1xp4/weird_bug_with_pydantic_vscode_and_breakpoints/",
+        "https://www.reddit.com/r/pythonhelp/comments/1n44eve/python_script_csv_cleanerpy/",
+        "https://www.reddit.com/r/pythonhelp/comments/1n32ua9/how_to_stop_creating_stuff_in_libraryapplication/",
+        "https://www.reddit.com/r/pythonhelp/comments/1m9yytz/bettercam_comerror_interface_or_functionality_not/",
+        "https://www.reddit.com/r/pythonhelp/comments/1lvaag1/need_assistance_with_this_assignment/",
+        "https://www.reddit.com/r/pythonhelp/comments/1legl08/left_alignment_fails/",
+        "https://www.reddit.com/r/pythonhelp/comments/1k6cbbe/for_generative_maps_is_there_a_better_way_to/",
+        "https://www.reddit.com/r/pythonhelp/comments/1jzo6xg/what_is_this_kind_of_problem_and_how_can_i/",
+        "https://www.reddit.com/r/pythonhelp/comments/1jw716q/python_and_firebase/",
+        "https://www.reddit.com/r/pythonhelp/comments/1jvb08m/blackjack_problem/",
+        "https://www.reddit.com/r/pythonhelp/comments/1jvfm9o/why_does_this_always_print_k_when_i_type_h_for/",
+        "https://www.reddit.com/r/pythonhelp/comments/1ja2vvl/assistance_getting_json_into_mysql/",
+        "https://www.reddit.com/r/pythonhelp/comments/1j1qeuh/snake_game_python/",
+        "https://www.reddit.com/r/pythonhelp/comments/1ipjvq5/how_to_get_connection_to_my_microsoft_sql_server/",
+        "https://www.reddit.com/r/pythonhelp/comments/1fxg1t3/looping_for_assignment/",
+        "https://www.reddit.com/r/pythonhelp/comments/1fxeqwv/incrementing_to_last_forth_decimal/",
+        "https://www.reddit.com/r/pythonhelp/comments/1g06gw4/hey_guys_looking_for_some_to_give_me_a_hand/",
+        "https://www.reddit.com/r/pythonhelp/comments/1gh03rp/just_getting_started_with_python_im_not_sure_what/"
+    ]
+
+
